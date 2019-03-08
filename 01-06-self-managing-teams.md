@@ -1,3 +1,5 @@
+Making some changes for testing
+
 # Conversation: More bibles, fewer priests: Tools for running self-managing teams
 
 * Brian Boyer
